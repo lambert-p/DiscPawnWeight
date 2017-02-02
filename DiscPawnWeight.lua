@@ -45,6 +45,7 @@ end
 
 frame:SetScript("OnEvent", eventHandler);
 --[[
+http://pastebin.com/yFjW92w5
 def getdiscstats(self,intellect,crit,haste,mastery,vers,blef=0):
        hasterating = 325
        critrating = 350
